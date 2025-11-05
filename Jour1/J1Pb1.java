@@ -1,3 +1,4 @@
+package lachancevi.Enrichissement_Jour1.Jour1;
 import java.util.Scanner;
 
 public class J1Pb1 {
