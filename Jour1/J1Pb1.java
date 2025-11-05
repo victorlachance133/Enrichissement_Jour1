@@ -1,4 +1,3 @@
-package lachancevi;
 import java.util.Scanner;
 
 public class J1Pb1 {
