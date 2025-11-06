@@ -1,4 +1,4 @@
-package lachancevi;
+package lachancevi.Enrichissement_Jour1.Jeu_Cool;
 import java.util.Scanner;
 
 public class At01Ex01 {
