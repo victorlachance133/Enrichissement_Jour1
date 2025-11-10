@@ -1,4 +1,4 @@
-package lachancevi;
+package lachancevi.Enrichissement_Jour1.Jour4;
 
 public class J4Pb1 {
     public static void main(String[] args) {
